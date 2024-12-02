@@ -1,0 +1,16 @@
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.exe
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.deps.json
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.runtimeconfig.json
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.FrmCalculator.resources
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfo.cs
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\refint\CalculatorApplication.dll
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.genruntimeconfig.cache
+C:\Users\KIAN\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\ref\CalculatorApplication.dll
